@@ -11,3 +11,4 @@
 + [Email]:(germanfernandez0306@gmail.com) 
 + [Twitter]:(https://twitter.com/GermanF74526236)
 + [Twitch]:(https://www.twitch.tv/germancito_57)
+[I'm an inline-style link](https://www.google.com)
