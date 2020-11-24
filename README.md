@@ -1,6 +1,7 @@
 # Hey, I'm German! 
 
-+ I'm currently learning Python.
++ I'm currently learning Python ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Python Logo")
+
 
 + Focused in a collaboration of something cool.
 
