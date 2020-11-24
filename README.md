@@ -8,7 +8,7 @@
 
 ## Contact and Social networks
 
-+ Contact Email: germanfernandez0306@gmail.com
++ Personal Email: germanfernandez0306@gmail.com
 
-+ [Twitter]:(https://twitter.com/GermanF74526236)
-+ [Twitch]:(https://www.twitch.tv/germancito_57)
++ [Twitter](https://twitter.com/GermanF74526236)
++ [Twitch](https://www.twitch.tv/germancito_57)
