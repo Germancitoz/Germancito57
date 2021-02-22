@@ -1,10 +1,8 @@
 # Hey, I'm German! 
 
-+ I'm currently learning Python.
++ I'm currently learning amd testing things.
 
 + Focused in a collaboration of something cool.
-
-+ I'm actually making apps to streamline people's lives.
 
 ---
 
