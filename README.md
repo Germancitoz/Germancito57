@@ -1,6 +1,6 @@
 # Hey, I'm German! 
 
-+ I'm currently learning amd testing things.
++ I'm currently learning and testing things.
 
 + Focused in a collaboration of something cool.
 
