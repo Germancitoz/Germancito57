@@ -9,10 +9,8 @@
 ## Contact and Social networks
 
 + Personal Email: germanfernandez0306@gmail.com
-+ DiscordID: Germancito57#0477
-+ [Twitter](https://twitter.com/GermanF74526236)
-+ [Twitch](https://www.twitch.tv/germancito_57)
-
++ DiscordID: Germancito#0477
++ [Twitter](https://twitter.com/_Germancito)
 ---
 
 
