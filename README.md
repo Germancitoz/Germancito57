@@ -1,9 +1,9 @@
 # Hey, I'm German! 
 
+<img align = "right" src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv"/>
 + I'm currently learning and testing things.
 
-<img align = "right" src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv"/>
-
+---
 
 ## Contact
 
