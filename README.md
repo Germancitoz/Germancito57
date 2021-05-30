@@ -8,7 +8,7 @@
 ## Contact
 
 + Discord ID : Germancito#0477
-+ Mail       : germanfernandez0306@gmail.co
++ Mail       : germanfernandez0306@gmail.com
 + Twitter    : [@_Germancito](https://twitter.com/_Germancito")
 
 ---
