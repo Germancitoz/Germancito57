@@ -1,8 +1,8 @@
 # Hey, I'm German! 
 
 + I'm currently learning and testing things.
-+ 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/img>
 
 ---
 
