@@ -1,8 +1,8 @@
 # Hey, I'm German! 
 
 + I'm currently learning and testing things.
-
-+ Focused in a collaboration of something cool.
++ 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ---
 
@@ -10,7 +10,7 @@
 
 + Discord ID : Germancito#0477
 + Mail       : germanfernandez0306@gmail.co
-+ Twitter    : [@_Germancito](https://twitter.com/_Germancito">
++ Twitter    : [@_Germancito](https://twitter.com/_Germancito")
 
 ---
 
