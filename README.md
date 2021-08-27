@@ -1,30 +1,41 @@
-# Hey, I'm German! 
+# Hello, I am German
+## A young, Uruguayan developer
 
-<img align = "right" src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv">
+<br>
 
-+ I'm currently learning and testing things
+![DEV](https://cdn.discordapp.com/attachments/842840007471005696/880939168811855922/giphy-downsized.gif)
+<br>
+
+<br>
+
+
+### Ey, I am a boy who love the technology and software.
+
+### My first code lines were 1 year ago and now I am learning a lot of interesting things about that environment.
+
+<br>
+
 
 ---
 
-## Contact
+## Skills:
 
-+ Discord ID : Germancito#0306
-+ Mail       : germanfernandez0306@gmail.com
-+ Twitter    : [@_Germancito](https://twitter.com/_Germancito)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![LUA](https://img.shields.io/badge/LUA-232F3E?style=for-the-badge&logo=LUA&logoColor=white&labelColor=101010)]()
 
----
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express.JS-464343?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
-## Languages and Tools
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+[![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
 
 
 
-<br />
+## Contact me:
 
+[![Discord](https://img.shields.io/badge/Discord-Germancito.0306-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
+[![Twitter](https://img.shields.io/badge/Twitter-@_Germancito-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_Germancito)
+[![Mail](https://img.shields.io/badge/Mail-germanfernandez0306@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:germanfernandez0306@gmail.com)
