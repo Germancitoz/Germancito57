@@ -28,6 +28,7 @@
 [![Express](https://img.shields.io/badge/Express.JS-464343?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 
 [![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
