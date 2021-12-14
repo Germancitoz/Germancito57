@@ -11,7 +11,7 @@
 
 ### Ey, I am a boy who love the technology and software
 
-### My first code lines were 1 year ago and now I am learning a lot of interesting things about that environment
+### My first code lines were 1 year ago and now I am learning a lot of interesting things about this environment
 
 <br>
 
