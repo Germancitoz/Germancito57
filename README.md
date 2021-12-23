@@ -36,6 +36,6 @@
 
 ## Contact me:
 
-[![Discord](https://img.shields.io/badge/Discord-Germancito.3907-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
-[![Twitter](https://img.shields.io/badge/Twitter-@_Germancito-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_Germancito)
+[![Discord](https://img.shields.io/badge/Discord-Germancito.3907-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/546732670005149706)
+[![Twitter](https://img.shields.io/badge/Twitter-@_Germancito-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Germancitoz1)
 [![Mail](https://img.shields.io/badge/Mail-germanfernandez0306@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:germanfernandez0306@gmail.com)
