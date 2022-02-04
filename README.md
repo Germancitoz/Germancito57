@@ -1,40 +1,26 @@
-# Hello, I am German Fernandez
-## A young and an Uruguayan developer
-
+<h1 align="center">Hello 🖐️ , I am German</h2>
+<h3 align="center"><i>A boy who is really keen on technology and software</i></h3>
 <br>
 
-![DEV](https://cdn.discordapp.com/attachments/842840007471005696/880939168811855922/giphy-downsized.gif)
-<br>
+_My first code lines were 1 year ago and now I am learning a lot of interesting things about this environment_
 
-<br>
+<h2 align="left"><i>> Stack</i></h2>
+<div style="padding:8px">
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![LUA](https://img.shields.io/badge/LUA-232F3E?style=for-the-badge&logo=LUA&logoColor=white&labelColor=101010)](https://www.lua.org/)
 
-### Ey, I am a boy who love the technology and software
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.JS-464343?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](https://expressjs.com/)
 
-### My first code lines were 1 year ago and now I am learning a lot of interesting things about this environment
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com/)
 
-<br>
+[![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://git-scm.com/)
 
+</div>
 
----
-
-## Skills:
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![LUA](https://img.shields.io/badge/LUA-232F3E?style=for-the-badge&logo=LUA&logoColor=white&labelColor=101010)]()
-
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Express](https://img.shields.io/badge/Express.JS-464343?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-
-
-[![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
-
-
-
-## Contact me:
+<h2 align="left"><i>> Contact me</i></h2>
 
 [![Discord](https://img.shields.io/badge/Discord-Germancito.3907-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/546732670005149706)
 [![Twitter](https://img.shields.io/badge/Twitter-@_Germancito-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Germancitoz1)
