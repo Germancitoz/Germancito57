@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/824264858182090752/950886285663408199/github-header-image.png">
+
 <h1 align="center">Hello 🖐️ , I am German</h2>
 <h3 align="center"><i>A boy who is really keen on technology and software</i></h3>
 <br>
