@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/824264858182090752/950886285663408199/github-header-image.png">
+<img src="https://cdn.discordapp.com/attachments/824264858182090752/950886623774638120/github-header-image_1.png">
 
 _My first code lines were 1 year ago and now I am learning a lot of interesting things about this environment_
 
