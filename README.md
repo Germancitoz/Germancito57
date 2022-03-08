@@ -1,9 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/824264858182090752/950886285663408199/github-header-image.png">
 
-<h1 align="center">Hello 🖐️ , I am German</h2>
-<h3 align="center"><i>A boy who is really keen on technology and software</i></h3>
-<br>
-
 _My first code lines were 1 year ago and now I am learning a lot of interesting things about this environment_
 
 <h2 align="left"><i>> Stack</i></h2>
