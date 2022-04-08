@@ -11,5 +11,6 @@ If you want to give me a delicious <a href="https://ko-fi.com/germancito" target
 
 <h2 align="left"><i>> Stack</i></h2>
  
-<img width=210 src="https://skillicons.dev/icons?i=js,lua,nodejs,express,git"/>
+<img width=210 style = "pointer-events: none;
+  user-select: none;" src="https://skillicons.dev/icons?i=js,lua,nodejs,express,git"/>
 
