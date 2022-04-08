@@ -6,6 +6,12 @@ _My first code lines were 1 year ago and now I am learning a lot of interesting 
 <h2 align="left"><i>> Stack</i></h2>
 <div style="padding:8px">
   
+.js
+.py
+.lua
+ 
+
+  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![LUA](https://img.shields.io/badge/LUA-232F3E?style=for-the-badge&logo=LUA&logoColor=white&labelColor=101010)](https://www.lua.org/)
