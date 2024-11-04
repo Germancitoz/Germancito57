@@ -1,7 +1,3 @@
-<h1 align="center">Welcome 👋</h1>
-
-I am **Germán**, a young boy who like programming.
-
 Currently, I do **freelance projects** and also contributing to **open source code**.
 
 To know more, you can **contact me** on [Mail](germanfernandez@gmail.com), [Discord](https://discord.com/users/546732670005149706).
